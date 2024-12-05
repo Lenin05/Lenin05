@@ -1,5 +1,5 @@
-## Hi there 👋
-## Hola usuarios de GitHub
+### Hola Mundo 👋, soy Lenin Quezada
+Soy estudiante de ingeniería mecatrónica
 <!--
 **Lenin05/Lenin05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
