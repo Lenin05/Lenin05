@@ -1,37 +1,46 @@
 # 👋 ¡Hola Mundo! Soy Lenin Quezada  
-### 🚀 Estudiante de Ingeniería Mecatrónica | Apasionado por la Tecnología y la Innovación  
+### 🚀 Ingeniero Mecatrónico | Data Scientist | Automatización Industrial  
 
-Hola, soy Lenin Quezada, un estudiante de Ingeniería Mecatrónica en mi último año, con experiencia internacional y un enfoque en la automatización industrial y el análisis de datos. Durante mi formación, he trabajado en proyectos desafiantes que me han permitido desarrollar habilidades técnicas sólidas y aplicar soluciones innovadoras a problemas complejos.  
+Soy **Lenin Brandon Quezada Juárez**, egresado de Ingeniería Mecatrónica de la UNT con experiencia internacional en la UNAM.  
+Me especializo en **automatización industrial y ciencia de datos**, desarrollando soluciones que integran **PLC, sistemas de control, análisis de datos y machine learning** para la optimización de procesos industriales.  
+
+Actualmente me desempeño como **Científico de Datos en SIDERPERU**, aplicando técnicas de **deep learning, MLOps y análisis en tiempo real** para mejorar la eficiencia operativa en la industria.  
 
 ---
 
 ## 🛠️ Habilidades Técnicas  
-- **Controladores Industriales**: Siemens (S7-1200, S7-1500), Rockwell Automation   
-- **Sistemas de Automatización**: TIA Portal, Studio 5000, WinCC, FTView, HMI  
-- **Lenguajes de Programación**: Python, C, C++, MATLAB  
-- **Bases de Datos**: SQL Server, MySQL  
-- **Visualización de Datos**: Power BI, Tableau  
-- **Nube y Control de Versiones**: Google Cloud, AWS, Git  
-- **Metodologías de Trabajo**: SCRUM, Agile, Diagramas de Gantt
+
+- **Machine Learning & Data Science:** TensorFlow, Scikit-learn, Databricks, Apache Spark, MLflow, análisis exploratorio de datos  
+- **MLOps & DevOps:** Docker, programación y orquestación de flujos MLOps, despliegue y monitorización de modelos, Git/GitHub  
+- **Bases de Datos:** SQL Server, MySQL, SQLite  
+- **Visualización & Análisis:** Power BI, Excel Avanzado (Power Query, Power Pivot), Matplotlib  
+- **Automatización Industrial:** PLC Siemens (TIA Portal, S7-1200, S7-1500), Allen-Bradley (Studio 5000), FactoryTalk View Studio, SCADA, variadores de frecuencia, HMI  
+- **Diseño e Ingeniería:** SolidWorks, AutoCAD, MATLAB  
+- **Otras Competencias:** Gestión de proyectos, Módulo PM de SAP, metodologías ágiles (SCRUM, Agile)  
 
 ---
 
 ## 🌟 Experiencia Profesional  
-### Practicante en el Laboratorio de Automatización y Control - UNAM  
-- Programación y configuración de controladores Siemens (S7-1500) y Rockwell Automation para sistemas de automatización.  
-- Creación de algoritmos de control secuencial para procesos industriales, optimizando tiempos de ciclo en una planta embotelladora a escala.  
-- Configuración de sistemas de periferia descentralizada y monitoreo a través de interfaces HMI.  
-- Implementación de dashboards interactivos para la supervisión de variables clave en procesos industriales.  
 
----
+### 💻 Científico de Datos – SIDERPERU  
+*Feb. 2025 – Actualidad · Chimbote, Perú*  
+- Desarrollo y despliegue de modelos avanzados de deep learning para predicción y análisis en tiempo real de procesos industriales.  
+- Programación y orquestación de flujos MLOps, abarcando generación, actualización y monitorización de modelos en producción.  
+- Diseño de pipelines de datos eficientes y escalables, desde la adquisición en planta hasta la inferencia en entornos productivos.  
+- Aplicación de buenas prácticas de programación y principios de Clean Code en proyectos de IA.  
 
-## 🎯 Intereses  
-Me apasiona la automatización, la digitalización y el aprendizaje continuo. Creo en el impacto positivo de la tecnología cuando se utiliza para mejorar la eficiencia y la sostenibilidad en los procesos industriales.  
+### 🔧 Practicante en Automatización y Control – UNAM  
+*Feb. 2024 – Ago. 2024 · Ciudad de México, México*  
+- Programación de PLC Siemens (TIA Portal) y Rockwell (Studio 5000) para control de procesos industriales.  
+- Configuración de periferia descentralizada (ET 200SP, Flex I/O) en sistemas de automatización.  
+- Desarrollo de control secuencial y HMI para una planta embotelladora a escala.  
+- Implementación de Add-On Instructions (AOI) para calibración de sensores y control de variables.  
+- Colaboración con Siemens, Rockwell Automation y Endress+Hauser en proyectos académicos e industriales.  
 
 ---
 
 ## 🌐 Encuéntrame en:  
 - [LinkedIn](https://linkedin.com/in/lenin-brandon-quezada-juárez-a464b3257)  
 
-¡Gracias por visitar mi perfil! Siempre estoy abierto a colaborar en proyectos interesantes que marquen la diferencia. 🌟  
-álisis de datos. Durante mi formación, he trabajado en proyectos desafiantes que me han permitido desarrollar habilidades técnicas sólida
+✨ ¡Gracias por visitar mi perfil! Siempre abierto a colaborar en proyectos innovadores que marquen la diferencia.  
+
