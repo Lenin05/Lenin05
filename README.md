@@ -2,10 +2,7 @@
 ### 🚀 Ingeniero Mecatrónico | Data Scientist | Automatización Industrial  
 
 Soy **Lenin Brandon Quezada Juárez**, egresado de Ingeniería Mecatrónica de la UNT con experiencia internacional en la UNAM.  
-Me especializo en **automatización industrial y ciencia de datos**, desarrollando soluciones que integran **PLC, sistemas de control, análisis de datos y machine learning** para la optimización de procesos industriales.  
-
-Actualmente me desempeño como **Científico de Datos en SIDERPERU**, aplicando técnicas de **deep learning, MLOps y análisis en tiempo real** para mejorar la eficiencia operativa en la industria.  
-
+Me especializo en **automatización industrial y ciencia de datos**, desarrollando soluciones que integran **PLC, sistemas de control, análisis de datos y machine learning** para la optimización de procesos industriales. 
 ---
 
 ## 🛠️ Habilidades Técnicas  
